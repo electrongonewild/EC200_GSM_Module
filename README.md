@@ -2,7 +2,7 @@
 In this project, we are going to see how to interface GSM Module(EC200) to USB to TTL(CP2102). So lets get to business!
 
 A GSM(Global System for Mobile Communication) module is used to enable communication between microcontroller or microprocessor and GSM network.<br><br>
-You can checkout the [Quectel Website](https://www.quectel.com/) for more details regarding their products.<br><br>
+You can checkout the [Quectel Website](https://www.quectel.com/) for more details.<br><br>
 Okay! Now let’s see how to connect a GSM module to USB to TTL(CP2102)!
 
 ## Table of Contents
