@@ -33,7 +33,7 @@ Follow the steps for getting started:
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to set the baudrate and check serial configuration as well).
 * That's it!!! Now you can send AT commands using realterm directly to GSM Module and also receive its response.
-* Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and baudrate is fine.
+* Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
 * Now you can further proceed to other AT commands according to your application.
 ## Basic AT Commands
 1. Basic AT Command: ```AT\r\n``
