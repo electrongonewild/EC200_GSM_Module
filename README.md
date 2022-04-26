@@ -17,7 +17,7 @@ Here are direct links for same.<br>
 * [AT Command Manual](https://www.quectel.com/ProductDownload/EC200T.zip)
 
 ## Connections
-<img src="Images/Schematic_EC200_2022-04-21.png" width="350" title="Connection Diagram">
+![Alt text](Images/Schematic_EC200_2022-04-21.png?raw=true "Title")
 * Rx(EC200) ---> Tx(USB to TTL)
 * Tx(EC200) ---> Rx(USB to TTL)
 * Power Supply(5V/3.3V and GND)
