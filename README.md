@@ -13,8 +13,8 @@ Okay! Now let’s see how to connect a GSM module to USB to TTL(CP2102)!
 ## Documentation
 It is highly recommended to go through the Documentation first.<br>
 Here are direct links for same.<br>
-* [Datasheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj844jAvqT3AhUKzjgGHVf2DW4QFnoECAQQAQ&url=https%3A%2F%2Fdocs.ai-thinker.com%2F_media%2Fesp8266%2Fdocs%2Fesp-07s_product_specification_en.pdf&usg=AOvVaw3k-zfaEmobvifaX6MvxyKy) 
-* [AT Command Manual](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihk8mMhbH3AhWaldgFHd6_AJYQFnoECAoQAQ&url=https%3A%2F%2Fforums.quectel.com%2Fuploads%2Fshort-url%2Fn9OsBWB7OkhAybnroSApx6UDfm9.pdf&usg=AOvVaw2gfobBjw7riMnUj2sX9NGq)
+* [Datasheet](https://www.quectel.com/ProductDownload/EC200T.zip) 
+* [AT Command Manual](https://www.quectel.com/ProductDownload/EC200T.zip)
 
 ## Connections
 * Rx(EC200) ---> Tx(USB to TTL)
