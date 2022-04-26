@@ -44,7 +44,7 @@ Follow the steps for getting started:
   * ```AT+QICSGP=1,1,"portalnmms","","",0\r\n``` for Vodafone SIM
   * ```AT+QICSGP=1,1,"bsnlnet","","",0\r\n``` for Airtel SIM
 4. Activate PDP Context: ```AT+QIACT=1\r\n``` 
-5. Ping Google to check internet availability: ```AT+QPING=1,"www.google.com"\r\n``
+5. Ping Google to check internet availability: ```AT+QPING=1,"www.google.com"\r\n```
 ## Contributions
 
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
