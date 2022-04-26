@@ -36,7 +36,7 @@ Follow the steps for getting started:
 * Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
 * Now you can further proceed to other AT commands according to your application.
 ## Basic AT Commands
-1. Basic AT Command: ```AT\r\n``
+1. Basic AT Command: ```AT\r\n```
 2. Deactivate PDP Context: ```AT+QIDEACT=1\r\n```
 3. Set APN: (according to network operator)
   * ```AT+QICSGP=1,1,"JIONET","","",0\r\n``` for JIO SIM
