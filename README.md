@@ -11,8 +11,9 @@ Okay! Now let’s see how to connect a GSM module to USB to TTL(CP2102)!
 * [Connection Diagram](README.md#connections)
 * [Getting Started](README.md#getting-started)
 * [Basic AT Commands](README.md#basic-at-commands)
-* [Contributions](README.md#contributions)
 * [Implementation](README.md#implementation)
+* [Contributions](README.md#contributions)
+
 ## Documentation
 It is highly recommended to go through the Documentation first.<br>
 Here are direct links for same.<br>
