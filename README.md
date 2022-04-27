@@ -35,7 +35,7 @@ Follow the steps for getting started:
 ![Alt text](Images/deviceManager.png?raw=true "Title")
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to set the baudrate and check serial configuration as well).
-![Alt text](Images/serialConfig.png?raw=true "Title")
+![Alt text](Images/serialConfig.PNG?raw=true "Title")
 * That's it!!! Now you can send AT commands using realterm directly to GSM Module and also receive its response.
 * Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
 * Now you can further proceed to other AT commands according to your application.
@@ -50,7 +50,7 @@ Follow the steps for getting started:
 4. Activate PDP Context: ```AT+QIACT=1\r\n``` 
 5. Ping Google to check internet availability: ```AT+QPING=1,"www.google.com"\r\n```
 ## Implementation
-![Alt text](Images/gsmSerial.png?raw=true "Title")
+![Alt text](Images/gsmSerial.PNG?raw=true "Title")
 ## Contributions
 
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
