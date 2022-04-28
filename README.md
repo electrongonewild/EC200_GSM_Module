@@ -31,10 +31,14 @@ Here are direct links for same.<br>
 * Power Supply(5V/3.3V and GND)
 ## Getting Started
 Follow the steps for getting started:
-* Connect the USB to TTL(CP2102) to USB port of PC and open device manager to check the port connected to serial bridge (USB to TTL).
+* Connect the USB to TTL(CP2102) to USB port of PC and open device manager to check the port connected to serial bridge (USB to TTL).<br>
 ![Alt text](Images/deviceManager.png?raw=true "Title")
 * Open Realterm or any other serial terminal you want to use.
-* Open the port to which your serial device is connected (make sure to set the baudrate and check serial configuration as well).
+* Open the port to which your serial device is connected make sure to check serial configuration as follows:
+  1. Baudrate : 115200
+  2. Data Bits : 8
+  3. Parity : None
+  4. Stopbits : 1 <br>
 ![Alt text](Images/serialConfig.PNG?raw=true "Title")
 * That's it!!! Now you can send AT commands using realterm directly to GSM Module and also receive its response.
 * Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
