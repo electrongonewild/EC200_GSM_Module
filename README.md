@@ -24,6 +24,7 @@ Here are direct links for same.<br>
 * USB to TTL (CP2102)
 * EC200 EVB
 * Jumpers
+* Basic knowledge of UART and serial communication
 ## Connections
 ![Alt text](Images/Schematic_EC200_2022-04-21.png?raw=true "Title")
 * Rx(EC200) ---> Tx(USB to TTL)
